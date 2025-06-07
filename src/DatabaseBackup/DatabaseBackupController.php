@@ -1,6 +1,6 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards\DatabaseBackup;
+namespace Alfan06\NovaArtisanCards\DatabaseBackup;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Artisan;

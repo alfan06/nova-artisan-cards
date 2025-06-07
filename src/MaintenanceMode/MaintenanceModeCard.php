@@ -1,6 +1,6 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards\MaintenanceMode;
+namespace Alfan06\NovaArtisanCards\MaintenanceMode;
 
 use Illuminate\Support\Facades\Cache;
 use Laravel\Nova\Card;

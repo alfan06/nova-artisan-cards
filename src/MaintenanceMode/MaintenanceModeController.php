@@ -1,8 +1,8 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards\MaintenanceMode;
+namespace Alfan06\NovaArtisanCards\MaintenanceMode;
 
-use Coreproc\NovaArtisanCards\MaintenanceMode\Requests\MaintenanceModeDownRequest;
+use Alfan06\NovaArtisanCards\MaintenanceMode\Requests\MaintenanceModeDownRequest;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Cache;

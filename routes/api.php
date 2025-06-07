@@ -1,8 +1,8 @@
 <?php
 
-use Coreproc\NovaArtisanCards\DatabaseBackup\DatabaseBackupController;
-use Coreproc\NovaArtisanCards\MaintenanceMode\MaintenanceModeController;
-use Coreproc\NovaArtisanCards\MigrateFresh\MigrateFreshController;
+use Alfan06\NovaArtisanCards\DatabaseBackup\DatabaseBackupController;
+use Alfan06\NovaArtisanCards\MaintenanceMode\MaintenanceModeController;
+use Alfan06\NovaArtisanCards\MigrateFresh\MigrateFreshController;
 use Illuminate\Support\Facades\Route;
 
 /*

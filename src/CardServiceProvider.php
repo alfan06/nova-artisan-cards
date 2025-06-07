@@ -1,6 +1,6 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards;
+namespace Alfan06\NovaArtisanCards;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;

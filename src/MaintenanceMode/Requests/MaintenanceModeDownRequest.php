@@ -1,6 +1,6 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards\MaintenanceMode\Requests;
+namespace Alfan06\NovaArtisanCards\MaintenanceMode\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

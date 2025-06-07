@@ -1,6 +1,6 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards\DatabaseBackup;
+namespace Alfan06\NovaArtisanCards\DatabaseBackup;
 
 use Illuminate\Support\Facades\Cache;
 use Laravel\Nova\Card;

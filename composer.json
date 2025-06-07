@@ -1,5 +1,5 @@
 {
-    "name": "coreproc/nova-artisan-cards",
+    "name": "alfan06/nova-artisan-cards",
     "description": "A Laravel Nova card.",
     "keywords": [
         "laravel",
@@ -12,13 +12,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Coreproc\\NovaArtisanCards\\": "src/"
+            "Alfan06\\NovaArtisanCards\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Coreproc\\NovaArtisanCards\\CardServiceProvider"
+                "Alfan06\\NovaArtisanCards\\CardServiceProvider"
             ]
         }
     },

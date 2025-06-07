@@ -1,6 +1,6 @@
 <?php
 
-namespace Coreproc\NovaArtisanCards\MigrateFresh;
+namespace Alfan06\NovaArtisanCards\MigrateFresh;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Artisan;

@@ -7,4 +7,4 @@ mix
   .js('resources/js/card.js', 'js')
   .vue({ version: 3 })
   .css('resources/css/card.css', 'css')
-  .nova('coreproc/nova-artisan-cards')
+  .nova('alfan06/nova-artisan-cards')
